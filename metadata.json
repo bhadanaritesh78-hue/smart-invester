@@ -1,0 +1,6 @@
+{
+  "name": "Investment Platform ERD Visualizer",
+  "description": "An interactive, scalable Entity Relationship Diagram (ERD) explorer and optimizer for a modern investment platform supporting stocks, mutual funds, ETFs, crypto, and fixed-income assets, with AI-powered schema assistance, SQL generation, and 3NF validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
